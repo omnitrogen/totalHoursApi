@@ -8,7 +8,7 @@ gunicorn==19.7.1
 ics==0.3.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 python-dateutil==2.6.1
 requests==2.20.0
